@@ -1,7 +1,6 @@
 # -Integra-Magna---Task
-Integra Magna - technical assignment 
 
-# NFT Project – Artist Marketplace
+# Integra Magna - Technical Assignment 
 
 ##  My Approach
 - **Navbar**:  
